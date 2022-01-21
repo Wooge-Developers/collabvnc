@@ -1,0 +1,2 @@
+# collabvnc
+cvm clone
